@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/Getcontact2/app/src/main/res/drawable/custom.xml" value="0.1395" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/Getcontact2/app/src/main/res/layout/cari.xml" value="0.22" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/Getcontact2/app/src/main/res/layout/chat.xml" value="0.15833333333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/Getcontact2/app/src/main/res/layout/lainnya.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/Getcontact2/app/src/main/res/layout/login.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/Getcontact2/app/src/main/res/layout/login1.xml" value="0.15833333333333333" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/Getcontact2/app/src/main/res/layout/panggilan.xml" value="0.67" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/Getcontact2/app/src/main/res/layout/percakapan.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/login11"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/etUsername"
+        android:drawableStart="@drawable/ic_username"
+        android:hint="@string/username"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:background="@drawable/custom"
+        android:textStyle="bold"
+        android:autofillHints="Username"
+        android:textColor="@color/black"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:onClick="clickusername"
+        android:layout_marginTop="400dp" />
+    <EditText
+        android:id="@+id/etPassword"
+        android:layout_marginLeft="20dp"
+        android:background="@drawable/custom"
+        android:layout_marginRight="20dp"
+        android:textColor="@color/black"
+        android:drawableStart="@drawable/ic_password"
+        android:drawableEnd="@drawable/ic_show"
+        android:hint="@string/password"
+        android:onClick="clickPassword"
+        android:autofillHints="Password"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:inputType="textPassword"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <Button
+        android:id="@+id/btnlogin"
+        android:onClick="clickLogin"
+        android:textStyle="bold"
+        android:layout_marginTop="20dp"
+        android:textSize="15dp"
+        android:layout_gravity="center"
+        android:theme="@style/Theme.MaterialComponents"
+        app:cornerRadius="50dp"
+        android:gravity="center"
+        android:backgroundTint="#67AFA1"
+        android:text="login"
+        android:layout_width="300px"
+        android:layout_height="130px"/>
+
+</LinearLayout>
